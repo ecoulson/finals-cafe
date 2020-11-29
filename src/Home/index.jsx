@@ -12,7 +12,7 @@ export default function Home() {
             </GridItem>
             <GridItem colSpan={4}>
                 <Center>
-                    <Image src="/cafelogo.png" />
+                    <Image src="cafelogo.png" />
                 </Center>
                 <Center>
                     <Heading marginTop={20} textAlign="center" fontSize="32px" fontFamily="Architects Daughter" color="black">Menu</Heading>
@@ -80,7 +80,7 @@ export default function Home() {
                     </ListItem>
                 </List>
                 <Center>
-                    <Image marginTop={10} src="/us.jpg" />
+                    <Image marginTop={10} src="us.jpg" />
                 </Center>
                 <Center>
                     <Text marginTop={10} fontSize={20} fontWeight={600} fontFamily={"Poiret One"}>This cafe is dedicated to the most beautiful, hardworking, and loving person in my life</Text>
